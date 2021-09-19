@@ -1,0 +1,2 @@
+props is used for parent to children. When using props you cannot transfer 
+from children to children. Props can be only used when transfering from PARENT TO CHILDREN
